@@ -1,0 +1,102 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+p{
+    font-size: 30px;
+}
+button{
+    border: none;
+    border-radius: 10px;
+    background: blue;
+    color: white;
+    font-size: 20px;
+}
+h2{
+    font-size: 40px;
+}
+body{
+    background: lightblue;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.a{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+    color: blue;
+}
+.a button{
+    padding: 20px 40px;
+}
+.a p{
+    margin: 0 20px;
+}
+.b{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: lightblue;
+    padding: 60px;
+    text-align: center;
+    color: blue;
+}
+.b button{
+    padding: 20px 40px;
+    width: 30%;
+}
+.b p{
+    margin: 20px 0;
+}
+.b .image{
+    width: 50%;
+    height: 300px;
+    border-radius: 15px;
+}
+.s{
+    background: lightblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px;
+    gap: 40px;
+    color: blue;
+}
+.s .c{
+    width: 30%;
+}
+.c{
+    text-align: center;
+}
+.c img{
+    border-radius: 15px;
+}
+.d{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px;
+    gap: 40px;
+    color: blue;
+}
+.e{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+.e p{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 28px;
+    color: blue;
+}
+.e img{
+    border-radius: 10px;
+}
