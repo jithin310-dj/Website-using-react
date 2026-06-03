@@ -1,6 +1,6 @@
 # Business Website Landing Page
 
-A responsive business landing page built using HTML and CSS.
+A responsive business landing page built using React js and CSS.
 
 ## Features
 
@@ -14,7 +14,7 @@ A responsive business landing page built using HTML and CSS.
 
 ## Technologies Used
 
-- HTML5
+- React js
 - CSS3
 - Flexbox
 
@@ -29,15 +29,15 @@ A responsive business landing page built using HTML and CSS.
 ```
 project/
 │
-├── My-Website.html
-├── My-Website.css
+├── App.jsx
+├── App.css
 └── README.md
 ```
 
 ## How to Run
 
 1. Download or clone the repository.
-2. Open `My-Website.html` in your browser.
+2. Open `App.jsx` in your browser.
 
 ## Author
 
